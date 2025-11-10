@@ -1,0 +1,25 @@
+# Carbon Footprint Tracker & Eco-Pledge System
+
+## About
+A simple demo for SDG 13 (Climate Action).  
+Track your carbon footprint and commit to eco-friendly actions.
+
+## How to Run
+
+### Backend
+- In the root:  
+  - `npm install express cors`
+  - `node server.js`
+
+### Frontend
+- In `/client`:  
+  - `npm install`
+  - `npm start` (opens at `localhost:3000`)
+
+### Usage
+- Add activities and calculate your footprint
+- Commit eco-pledges
+
+---
+
+**You can push these files to your new GitHub repository! Need instructions for git commands or repo setup? Just ask.**
